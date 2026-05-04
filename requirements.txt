@@ -9,6 +9,6 @@ beautifulsoup4
 streamlit
 plotly
 matplotlib
-google-generativeai
 kaggle
 python-dotenv
+google-genai
