@@ -85,17 +85,20 @@ def compute_all_shap():
 def generate_narrative(team_name, scores, shap_top5, api_key_override=None):
     """
     Calls the Google Gemini API to generate a scouting report.
+    Key priority: UI override → st.secrets → .env (local)
     """
-    if api_key_override:
-        api_key = api_key_override
+    if api_key_override and api_key_override.strip():
+        api_key = api_key_override.strip()
     else:
-        api_key = os.environ.get("GEMINI_API_KEY")
+        # Try Streamlit Cloud Secrets first (production), then fall back to .env (local)
+        try:
+            import streamlit as st
+            api_key = st.secrets.get("GEMINI_API_KEY", None)
+        except Exception:
+            api_key = None
         
-    # [DEPLOYMENT HACK] If running on Streamlit Cloud without secrets, natively inject the key.
-    # We split the string intentionally to bypass Google's automated GitHub leak scanners which 
-    # aggressively ban keys starting with "AIza" directly committed in text files.
-    if not api_key or api_key == "your_gemini_api_key_here":
-        api_key = "AIzaSy" + "CEMKd9rIXTjUqgMt14OAgyFhi78MPHXo4"
+        if not api_key:
+            api_key = os.environ.get("GEMINI_API_KEY")
         
     if not api_key or api_key == "your_gemini_api_key_here":
         return ("[MVP PLACEHOLDER NARRATIVE]\nGemini API key not found. Please provide an API key in the sidebar."
