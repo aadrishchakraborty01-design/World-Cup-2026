@@ -9,7 +9,7 @@ import os
 
 # Add src to Python path so we can import from it
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from src.explain import generate_narrative
+from src.explain import generate_narrative, GeminiKeyError
 
 st.set_page_config(page_title="WC2026 AI Scout", layout="wide", page_icon="⚽")
 
@@ -176,7 +176,6 @@ if not configured_key or st.session_state.server_key_failed:
     if st.button("💬 Generate Gemini AI Scouting Report", disabled=not inline_key):
         with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
             try:
-                from src.explain import GeminiKeyError
                 report = generate_narrative(selected_team, scores, shap_top5, api_key_override=inline_key)
                 st.success("Report Generated!")
                 st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
@@ -190,7 +189,6 @@ else:
     if st.button("💬 Generate Gemini AI Scouting Report"):
         with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
             try:
-                from src.explain import GeminiKeyError
                 report = generate_narrative(selected_team, scores, shap_top5)
                 st.success("Report Generated!")
                 st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
