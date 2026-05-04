@@ -1,0 +1,719 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2010-01-03,Spain,Colombia,0,1,Friendly,Unknown,Spain,False
+2010-01-10,England,Canada,4,1,Friendly,Unknown,England,False
+2010-01-17,Qatar,Germany,0,1,Friendly,Unknown,Qatar,False
+2010-01-24,Ivory Coast,Venezuela,2,3,Friendly,Unknown,Ivory Coast,False
+2010-01-31,Senegal,Ecuador,1,0,FIFA World Cup qualification,Unknown,Senegal,False
+2010-02-07,Ivory Coast,Costa Rica,0,0,Friendly,Unknown,Ivory Coast,False
+2010-02-14,Jamaica,Colombia,0,0,FIFA World Cup qualification,Unknown,Jamaica,False
+2010-02-21,Portugal,New Zealand,1,1,FIFA World Cup qualification,Unknown,Portugal,False
+2010-02-28,Italy,New Zealand,2,1,FIFA World Cup qualification,Unknown,Italy,False
+2010-03-07,Colombia,United Arab Emirates,4,1,Friendly,Unknown,Colombia,False
+2010-03-14,Poland,Netherlands,0,1,Friendly,Unknown,Poland,False
+2010-03-21,South Korea,New Zealand,1,0,Friendly,Unknown,South Korea,False
+2010-04-04,Denmark,Tunisia,2,1,Friendly,Unknown,Denmark,False
+2010-04-11,Sweden,Portugal,0,2,FIFA World Cup qualification,Unknown,Sweden,False
+2010-04-18,Saudi Arabia,Algeria,0,2,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2010-04-25,New Zealand,Denmark,0,1,Friendly,Unknown,New Zealand,False
+2010-05-02,Netherlands,Ukraine,3,1,Friendly,Unknown,Netherlands,False
+2010-05-09,Venezuela,Egypt,0,0,Friendly,Unknown,Venezuela,False
+2010-05-16,Germany,Costa Rica,2,4,FIFA World Cup qualification,Unknown,Germany,False
+2010-05-23,Portugal,South Korea,3,0,Friendly,Unknown,Portugal,False
+2010-05-30,Denmark,Germany,1,2,Friendly,Unknown,Denmark,False
+2010-06-06,Chile,United States,2,2,Friendly,Unknown,Chile,False
+2010-06-13,Senegal,Sweden,1,0,Friendly,Unknown,Senegal,False
+2010-06-20,Costa Rica,Italy,3,2,Friendly,Unknown,Costa Rica,False
+2010-06-27,United States,Netherlands,3,1,Friendly,Unknown,United States,False
+2010-07-04,England,Serbia,2,0,Friendly,Unknown,England,False
+2010-07-11,Senegal,United States,0,0,Friendly,Unknown,Senegal,False
+2010-07-18,Morocco,Mexico,1,0,FIFA World Cup qualification,Unknown,Morocco,False
+2010-07-25,Belgium,Mali,1,0,Friendly,Unknown,Belgium,False
+2010-08-01,Jamaica,Qatar,5,3,Friendly,Unknown,Jamaica,False
+2010-08-08,Wales,Venezuela,2,0,Friendly,Unknown,Wales,False
+2010-08-15,Argentina,Serbia,1,1,FIFA World Cup qualification,Unknown,Argentina,False
+2010-08-22,Serbia,Netherlands,2,0,Friendly,Unknown,Serbia,False
+2010-08-29,Mexico,Italy,3,0,Friendly,Unknown,Mexico,False
+2010-09-05,Egypt,Costa Rica,0,2,Friendly,Unknown,Egypt,False
+2010-09-12,Mexico,Argentina,1,4,Friendly,Unknown,Mexico,False
+2010-09-19,Ecuador,Mexico,2,0,FIFA World Cup qualification,Unknown,Ecuador,False
+2010-09-26,Morocco,Iran,0,0,Friendly,Unknown,Morocco,False
+2010-10-03,South Korea,Uruguay,0,0,Friendly,Unknown,South Korea,False
+2010-10-10,Spain,Ivory Coast,3,1,FIFA World Cup qualification,Unknown,Spain,False
+2010-10-17,France,United States,2,2,Friendly,Unknown,France,False
+2010-10-24,Tunisia,Australia,2,1,FIFA World Cup qualification,Unknown,Tunisia,False
+2010-10-31,Tunisia,Algeria,2,0,Friendly,Unknown,Tunisia,False
+2010-11-07,South Korea,Argentina,3,1,Friendly,Unknown,South Korea,False
+2010-11-14,Colombia,Australia,0,1,FIFA World Cup qualification,Unknown,Colombia,False
+2010-11-21,Belgium,Colombia,2,0,Friendly,Unknown,Belgium,False
+2010-11-28,United States,Panama,0,0,Friendly,Unknown,United States,False
+2010-12-05,Wales,Australia,0,0,Friendly,Unknown,Wales,False
+2010-12-12,Argentina,Portugal,1,3,FIFA World Cup qualification,Unknown,Argentina,False
+2010-12-19,Germany,Iran,2,1,Friendly,Unknown,Germany,False
+2010-12-26,South Korea,Venezuela,2,1,FIFA World Cup qualification,Unknown,South Korea,False
+2011-01-02,Tunisia,Portugal,2,1,Friendly,Unknown,Tunisia,False
+2011-01-09,Denmark,Ivory Coast,0,1,Friendly,Unknown,Denmark,False
+2011-01-16,Mexico,Morocco,0,2,Friendly,Unknown,Mexico,False
+2011-01-23,Saudi Arabia,Cameroon,2,0,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2011-01-30,Iran,Cameroon,3,1,Friendly,Unknown,Iran,False
+2011-02-06,Algeria,Australia,3,3,Friendly,Unknown,Algeria,False
+2011-02-13,Argentina,Mexico,1,0,FIFA World Cup qualification,Unknown,Argentina,False
+2011-02-20,England,Brazil,0,2,FIFA World Cup qualification,Unknown,England,False
+2011-02-27,Serbia,Wales,2,4,FIFA World Cup qualification,Unknown,Serbia,False
+2011-03-06,Australia,Belgium,2,2,FIFA World Cup qualification,Unknown,Australia,False
+2011-03-13,France,South Korea,0,2,Friendly,Unknown,France,False
+2011-03-20,Ecuador,Algeria,1,2,Friendly,Unknown,Ecuador,False
+2011-03-27,Canada,England,3,0,Friendly,Unknown,Canada,False
+2011-04-03,Denmark,Panama,1,0,Friendly,Unknown,Denmark,False
+2011-04-10,Ecuador,Canada,1,3,FIFA World Cup qualification,Unknown,Ecuador,False
+2011-04-17,Croatia,Wales,0,3,FIFA World Cup qualification,Unknown,Croatia,False
+2011-04-24,Ukraine,Ecuador,1,0,Friendly,Unknown,Ukraine,False
+2011-05-01,Mali,Serbia,2,1,Friendly,Unknown,Mali,False
+2011-05-08,Denmark,Wales,5,2,Friendly,Unknown,Denmark,False
+2011-05-15,Venezuela,Portugal,3,1,Friendly,Unknown,Venezuela,False
+2011-05-22,Spain,Peru,2,1,FIFA World Cup qualification,Unknown,Spain,False
+2011-05-29,Poland,Wales,0,0,Friendly,Unknown,Poland,False
+2011-06-05,Spain,Poland,2,1,Friendly,Unknown,Spain,False
+2011-06-12,Colombia,Argentina,1,0,Friendly,Unknown,Colombia,False
+2011-06-19,Morocco,Belgium,2,0,Friendly,Unknown,Morocco,False
+2011-06-26,United States,Wales,0,1,Friendly,Unknown,United States,False
+2011-07-03,South Korea,Japan,0,0,Friendly,Unknown,South Korea,False
+2011-07-10,Netherlands,Poland,2,2,Friendly,Unknown,Netherlands,False
+2011-07-17,Switzerland,Argentina,3,4,Friendly,Unknown,Switzerland,False
+2011-07-24,Netherlands,Mali,1,0,Friendly,Unknown,Netherlands,False
+2011-07-31,Senegal,Saudi Arabia,3,0,Friendly,Unknown,Senegal,False
+2011-08-07,Sweden,Chile,2,1,Friendly,Unknown,Sweden,False
+2011-08-14,Serbia,Chile,2,3,Friendly,Unknown,Serbia,False
+2011-08-21,Denmark,Portugal,4,0,Friendly,Unknown,Denmark,False
+2011-08-28,Iran,Senegal,0,0,FIFA World Cup qualification,Unknown,Iran,False
+2011-09-04,Peru,Saudi Arabia,1,1,Friendly,Unknown,Peru,False
+2011-09-11,Venezuela,Peru,0,1,FIFA World Cup qualification,Unknown,Venezuela,False
+2011-09-18,Mali,Nigeria,2,1,Friendly,Unknown,Mali,False
+2011-09-25,Ivory Coast,Nigeria,2,2,Friendly,Unknown,Ivory Coast,False
+2011-10-02,Netherlands,Nigeria,3,1,FIFA World Cup qualification,Unknown,Netherlands,False
+2011-10-09,Panama,Iran,0,2,Friendly,Unknown,Panama,False
+2011-10-16,Japan,Croatia,2,2,Friendly,Unknown,Japan,False
+2011-10-23,Denmark,Ivory Coast,1,1,Friendly,Unknown,Denmark,False
+2011-10-30,Belgium,Iraq,0,1,Friendly,Unknown,Belgium,False
+2011-11-06,Uruguay,Brazil,1,0,Friendly,Unknown,Uruguay,False
+2011-11-13,Iraq,Ivory Coast,0,1,Friendly,Unknown,Iraq,False
+2011-11-20,Japan,Mexico,7,0,Friendly,Unknown,Japan,False
+2011-11-27,Peru,Australia,4,0,Friendly,Unknown,Peru,False
+2011-12-04,Iraq,Nigeria,3,4,FIFA World Cup qualification,Unknown,Iraq,False
+2011-12-11,Jamaica,South Korea,1,1,Friendly,Unknown,Jamaica,False
+2011-12-18,Portugal,England,5,2,Friendly,Unknown,Portugal,False
+2011-12-25,Tunisia,Saudi Arabia,1,2,Friendly,Unknown,Tunisia,False
+2012-01-01,Morocco,Brazil,3,1,Friendly,Unknown,Morocco,False
+2012-01-08,Iran,Portugal,5,1,Friendly,Unknown,Iran,False
+2012-01-15,Serbia,New Zealand,4,2,FIFA World Cup qualification,Unknown,Serbia,False
+2012-01-22,Brazil,Wales,1,2,FIFA World Cup qualification,Unknown,Brazil,False
+2012-01-29,Ukraine,Poland,2,1,FIFA World Cup qualification,Unknown,Ukraine,False
+2012-02-05,Peru,Belgium,3,0,Friendly,Unknown,Peru,False
+2012-02-12,Tunisia,England,1,0,Friendly,Unknown,Tunisia,False
+2012-02-19,Egypt,Costa Rica,2,1,Friendly,Unknown,Egypt,False
+2012-02-26,Sweden,Germany,2,0,Friendly,Unknown,Sweden,False
+2012-03-04,Peru,Cameroon,3,1,Friendly,Unknown,Peru,False
+2012-03-11,Qatar,Colombia,1,0,Friendly,Unknown,Qatar,False
+2012-03-18,Switzerland,Netherlands,2,2,Friendly,Unknown,Switzerland,False
+2012-03-25,Chile,England,1,1,Friendly,Unknown,Chile,False
+2012-04-01,New Zealand,United States,1,1,Friendly,Unknown,New Zealand,False
+2012-04-08,Wales,Jamaica,2,2,Friendly,Unknown,Wales,False
+2012-04-15,Canada,Venezuela,1,1,Friendly,Unknown,Canada,False
+2012-04-22,Switzerland,Iran,2,3,Friendly,Unknown,Switzerland,False
+2012-04-29,Switzerland,Peru,0,0,Friendly,Unknown,Switzerland,False
+2012-05-06,Ecuador,Jamaica,2,1,Friendly,Unknown,Ecuador,False
+2012-05-13,Argentina,United Arab Emirates,1,1,FIFA World Cup qualification,Unknown,Argentina,False
+2012-05-20,Sweden,Morocco,0,3,FIFA World Cup qualification,Unknown,Sweden,False
+2012-05-27,Netherlands,Mexico,1,2,Friendly,Unknown,Netherlands,False
+2012-06-03,Colombia,Chile,0,1,Friendly,Unknown,Colombia,False
+2012-06-10,Italy,Sweden,1,1,FIFA World Cup qualification,Unknown,Italy,False
+2012-06-17,Tunisia,Senegal,1,2,Friendly,Unknown,Tunisia,False
+2012-06-24,Netherlands,Wales,2,0,Friendly,Unknown,Netherlands,False
+2012-07-01,Argentina,Australia,2,0,Friendly,Unknown,Argentina,False
+2012-07-08,Croatia,Poland,1,2,FIFA World Cup qualification,Unknown,Croatia,False
+2012-07-15,Japan,Jamaica,1,2,Friendly,Unknown,Japan,False
+2012-07-22,Portugal,Mali,1,1,FIFA World Cup qualification,Unknown,Portugal,False
+2012-07-29,Chile,Egypt,0,0,Friendly,Unknown,Chile,False
+2012-08-05,Cameroon,Iraq,1,0,FIFA World Cup qualification,Unknown,Cameroon,False
+2012-08-12,Australia,Iraq,5,0,Friendly,Unknown,Australia,False
+2012-08-19,United Arab Emirates,Iran,2,1,Friendly,Unknown,United Arab Emirates,False
+2012-08-26,Ukraine,Argentina,2,2,Friendly,Unknown,Ukraine,False
+2012-09-02,Panama,Morocco,1,0,Friendly,Unknown,Panama,False
+2012-09-09,Cameroon,Mali,1,1,Friendly,Unknown,Cameroon,False
+2012-09-16,Italy,Australia,0,1,Friendly,Unknown,Italy,False
+2012-09-23,Wales,Venezuela,3,1,FIFA World Cup qualification,Unknown,Wales,False
+2012-09-30,Netherlands,Poland,0,4,Friendly,Unknown,Netherlands,False
+2012-10-07,Egypt,Panama,2,1,Friendly,Unknown,Egypt,False
+2012-10-14,Colombia,Netherlands,2,4,Friendly,Unknown,Colombia,False
+2012-10-21,Iraq,Egypt,1,1,Friendly,Unknown,Iraq,False
+2012-10-28,Brazil,Costa Rica,2,1,Friendly,Unknown,Brazil,False
+2012-11-04,Algeria,Mali,1,0,FIFA World Cup qualification,Unknown,Algeria,False
+2012-11-11,Germany,Iraq,0,0,Friendly,Unknown,Germany,False
+2012-11-18,Jamaica,Sweden,0,0,Friendly,Unknown,Jamaica,False
+2012-11-25,Qatar,United States,2,2,Friendly,Unknown,Qatar,False
+2012-12-02,Egypt,Ukraine,3,1,Friendly,Unknown,Egypt,False
+2012-12-09,France,Portugal,0,0,FIFA World Cup qualification,Unknown,France,False
+2012-12-16,Canada,Costa Rica,2,0,FIFA World Cup qualification,Unknown,Canada,False
+2012-12-23,France,Switzerland,0,2,Friendly,Unknown,France,False
+2012-12-30,Iran,United States,2,1,Friendly,Unknown,Iran,False
+2013-01-06,Tunisia,Ivory Coast,0,1,FIFA World Cup qualification,Unknown,Tunisia,False
+2013-01-13,Algeria,Brazil,1,2,Friendly,Unknown,Algeria,False
+2013-01-20,Italy,Ukraine,1,1,Friendly,Unknown,Italy,False
+2013-01-27,Italy,Panama,0,1,Friendly,Unknown,Italy,False
+2013-02-03,Sweden,Saudi Arabia,2,1,Friendly,Unknown,Sweden,False
+2013-02-10,Uruguay,New Zealand,0,3,FIFA World Cup qualification,Unknown,Uruguay,False
+2013-02-17,Egypt,Iraq,2,0,FIFA World Cup qualification,Unknown,Egypt,False
+2013-02-24,Argentina,Poland,2,1,Friendly,Unknown,Argentina,False
+2013-03-03,Senegal,Tunisia,3,0,Friendly,Unknown,Senegal,False
+2013-03-10,Germany,Canada,2,2,Friendly,Unknown,Germany,False
+2013-03-17,Panama,South Korea,1,0,Friendly,Unknown,Panama,False
+2013-03-24,Nigeria,New Zealand,1,1,Friendly,Unknown,Nigeria,False
+2013-04-07,Ivory Coast,Peru,1,0,Friendly,Unknown,Ivory Coast,False
+2013-04-14,New Zealand,Ecuador,0,0,Friendly,Unknown,New Zealand,False
+2013-04-21,Mexico,Venezuela,3,1,Friendly,Unknown,Mexico,False
+2013-04-28,Egypt,Argentina,1,3,Friendly,Unknown,Egypt,False
+2013-05-05,Ivory Coast,Japan,0,0,FIFA World Cup qualification,Unknown,Ivory Coast,False
+2013-05-12,Cameroon,Iraq,1,0,FIFA World Cup qualification,Unknown,Cameroon,False
+2013-05-19,Algeria,New Zealand,4,1,Friendly,Unknown,Algeria,False
+2013-05-26,Tunisia,Saudi Arabia,3,4,FIFA World Cup qualification,Unknown,Tunisia,False
+2013-06-02,Mexico,Morocco,2,1,FIFA World Cup qualification,Unknown,Mexico,False
+2013-06-09,Sweden,United Arab Emirates,0,1,Friendly,Unknown,Sweden,False
+2013-06-16,Poland,France,1,1,FIFA World Cup qualification,Unknown,Poland,False
+2013-06-23,Poland,Iraq,3,2,FIFA World Cup qualification,Unknown,Poland,False
+2013-06-30,Uruguay,Tunisia,3,0,Friendly,Unknown,Uruguay,False
+2013-07-07,Nigeria,Poland,0,1,Friendly,Unknown,Nigeria,False
+2013-07-14,Denmark,Chile,1,1,Friendly,Unknown,Denmark,False
+2013-07-21,Argentina,Ivory Coast,1,3,Friendly,Unknown,Argentina,False
+2013-07-28,Ivory Coast,Spain,0,2,FIFA World Cup qualification,Unknown,Ivory Coast,False
+2013-08-04,Denmark,Saudi Arabia,0,0,Friendly,Unknown,Denmark,False
+2013-08-11,Poland,Japan,2,1,Friendly,Unknown,Poland,False
+2013-08-18,France,New Zealand,1,1,FIFA World Cup qualification,Unknown,France,False
+2013-08-25,Serbia,Netherlands,1,3,Friendly,Unknown,Serbia,False
+2013-09-01,Egypt,Morocco,4,0,Friendly,Unknown,Egypt,False
+2013-09-08,Colombia,New Zealand,0,0,Friendly,Unknown,Colombia,False
+2013-09-15,Morocco,Venezuela,3,2,Friendly,Unknown,Morocco,False
+2013-09-22,Argentina,Switzerland,2,1,Friendly,Unknown,Argentina,False
+2013-09-29,Mexico,Japan,1,3,Friendly,Unknown,Mexico,False
+2013-10-06,Senegal,Sweden,1,1,Friendly,Unknown,Senegal,False
+2013-10-13,England,Saudi Arabia,2,0,Friendly,Unknown,England,False
+2013-10-20,Denmark,Costa Rica,0,0,Friendly,Unknown,Denmark,False
+2013-10-27,Ukraine,Algeria,1,1,Friendly,Unknown,Ukraine,False
+2013-11-03,Panama,Canada,1,1,Friendly,Unknown,Panama,False
+2013-11-10,Argentina,Cameroon,2,2,Friendly,Unknown,Argentina,False
+2013-11-17,Poland,Chile,2,1,FIFA World Cup qualification,Unknown,Poland,False
+2013-11-24,Venezuela,Australia,2,2,Friendly,Unknown,Venezuela,False
+2013-12-01,Cameroon,France,1,0,Friendly,Unknown,Cameroon,False
+2013-12-08,Morocco,Netherlands,3,0,Friendly,Unknown,Morocco,False
+2013-12-15,Spain,France,2,0,Friendly,Unknown,Spain,False
+2013-12-22,Brazil,Chile,1,0,Friendly,Unknown,Brazil,False
+2013-12-29,Tunisia,New Zealand,0,2,Friendly,Unknown,Tunisia,False
+2014-01-05,Spain,England,3,6,Friendly,Unknown,Spain,False
+2014-01-12,Ivory Coast,Venezuela,3,1,Friendly,Unknown,Ivory Coast,False
+2014-01-19,Cameroon,Jamaica,0,2,Friendly,Unknown,Cameroon,False
+2014-01-26,Serbia,Uruguay,5,1,Friendly,Unknown,Serbia,False
+2014-02-02,Colombia,Uruguay,1,3,Friendly,Unknown,Colombia,False
+2014-02-09,Canada,Uruguay,2,2,FIFA World Cup qualification,Unknown,Canada,False
+2014-02-16,Argentina,Japan,0,2,Friendly,Unknown,Argentina,False
+2014-02-23,Croatia,Panama,2,4,Friendly,Unknown,Croatia,False
+2014-03-02,Nigeria,Belgium,0,1,Friendly,Unknown,Nigeria,False
+2014-03-09,Denmark,Canada,2,2,Friendly,Unknown,Denmark,False
+2014-03-16,South Korea,Panama,0,2,Friendly,Unknown,South Korea,False
+2014-03-23,Senegal,Denmark,3,0,FIFA World Cup qualification,Unknown,Senegal,False
+2014-03-30,Chile,Netherlands,4,2,FIFA World Cup qualification,Unknown,Chile,False
+2014-04-06,Netherlands,Brazil,1,0,FIFA World Cup qualification,Unknown,Netherlands,False
+2014-04-13,Mexico,New Zealand,2,0,FIFA World Cup qualification,Unknown,Mexico,False
+2014-04-20,Ivory Coast,Japan,1,0,Friendly,Unknown,Ivory Coast,False
+2014-05-04,Jamaica,Iran,4,0,Friendly,Unknown,Jamaica,False
+2014-05-18,Switzerland,Nigeria,1,3,Friendly,Unknown,Switzerland,False
+2014-05-25,Nigeria,Argentina,0,1,Friendly,Unknown,Nigeria,False
+2014-06-01,Algeria,Qatar,0,1,Friendly,Unknown,Algeria,False
+2014-06-08,Canada,Ukraine,0,1,Friendly,Unknown,Canada,False
+2014-06-15,Japan,Uruguay,1,2,Friendly,Unknown,Japan,False
+2014-06-22,Nigeria,Sweden,1,2,Friendly,Unknown,Nigeria,False
+2014-06-29,Italy,Germany,2,1,FIFA World Cup qualification,Unknown,Italy,False
+2014-07-06,Tunisia,Peru,1,2,Friendly,Unknown,Tunisia,False
+2014-07-13,Egypt,France,2,5,Friendly,Unknown,Egypt,False
+2014-07-20,Algeria,Iraq,1,2,Friendly,Unknown,Algeria,False
+2014-07-27,South Korea,United Arab Emirates,0,2,Friendly,Unknown,South Korea,False
+2014-08-03,Spain,Cameroon,0,3,Friendly,Unknown,Spain,False
+2014-08-10,Brazil,Japan,1,1,FIFA World Cup qualification,Unknown,Brazil,False
+2014-08-17,Ivory Coast,Algeria,0,2,FIFA World Cup qualification,Unknown,Ivory Coast,False
+2014-08-24,Brazil,Egypt,3,0,Friendly,Unknown,Brazil,False
+2014-08-31,Mexico,Brazil,1,1,Friendly,Unknown,Mexico,False
+2014-09-07,Peru,Sweden,2,1,FIFA World Cup qualification,Unknown,Peru,False
+2014-09-14,Serbia,Morocco,1,1,Friendly,Unknown,Serbia,False
+2014-09-21,Denmark,Sweden,1,1,Friendly,Unknown,Denmark,False
+2014-09-28,Algeria,Mali,2,1,Friendly,Unknown,Algeria,False
+2014-10-05,Sweden,Mali,1,2,Friendly,Unknown,Sweden,False
+2014-10-12,Brazil,United Arab Emirates,2,0,Friendly,Unknown,Brazil,False
+2014-10-19,Qatar,Senegal,1,1,Friendly,Unknown,Qatar,False
+2014-10-26,Uruguay,Netherlands,1,1,Friendly,Unknown,Uruguay,False
+2014-11-02,Ecuador,Colombia,1,3,FIFA World Cup qualification,Unknown,Ecuador,False
+2014-11-09,Mexico,Australia,1,0,Friendly,Unknown,Mexico,False
+2014-11-16,Uruguay,Costa Rica,0,3,Friendly,Unknown,Uruguay,False
+2014-11-23,Mali,Peru,1,0,FIFA World Cup qualification,Unknown,Mali,False
+2014-11-30,Wales,Japan,6,3,Friendly,Unknown,Wales,False
+2014-12-14,Portugal,Colombia,1,2,Friendly,Unknown,Portugal,False
+2014-12-21,Italy,Egypt,3,3,Friendly,Unknown,Italy,False
+2014-12-28,Wales,Switzerland,1,1,FIFA World Cup qualification,Unknown,Wales,False
+2015-01-04,Netherlands,Ecuador,2,1,Friendly,Unknown,Netherlands,False
+2015-01-11,France,Venezuela,1,3,Friendly,Unknown,France,False
+2015-01-18,Portugal,Iran,2,1,FIFA World Cup qualification,Unknown,Portugal,False
+2015-01-25,Jamaica,United States,2,0,FIFA World Cup qualification,Unknown,Jamaica,False
+2015-02-01,Morocco,Egypt,7,1,Friendly,Unknown,Morocco,False
+2015-02-08,Chile,Poland,1,0,FIFA World Cup qualification,Unknown,Chile,False
+2015-02-15,England,Peru,3,0,Friendly,Unknown,England,False
+2015-02-22,Portugal,Italy,2,2,Friendly,Unknown,Portugal,False
+2015-03-01,Costa Rica,Chile,3,0,Friendly,Unknown,Costa Rica,False
+2015-03-08,Ukraine,Cameroon,1,0,Friendly,Unknown,Ukraine,False
+2015-03-15,Morocco,Italy,0,1,Friendly,Unknown,Morocco,False
+2015-03-22,Senegal,New Zealand,1,1,Friendly,Unknown,Senegal,False
+2015-03-29,Iraq,Panama,4,2,Friendly,Unknown,Iraq,False
+2015-04-05,Uruguay,Algeria,0,1,Friendly,Unknown,Uruguay,False
+2015-04-12,Tunisia,Mexico,0,1,Friendly,Unknown,Tunisia,False
+2015-04-19,Mali,Uruguay,1,0,Friendly,Unknown,Mali,False
+2015-04-26,Croatia,Portugal,1,0,Friendly,Unknown,Croatia,False
+2015-05-03,France,Chile,2,3,Friendly,Unknown,France,False
+2015-05-10,Denmark,Brazil,0,0,Friendly,Unknown,Denmark,False
+2015-05-17,Colombia,Tunisia,0,0,FIFA World Cup qualification,Unknown,Colombia,False
+2015-05-24,Uruguay,Cameroon,0,3,Friendly,Unknown,Uruguay,False
+2015-05-31,Italy,United Arab Emirates,0,0,Friendly,Unknown,Italy,False
+2015-06-07,Tunisia,Wales,2,1,Friendly,Unknown,Tunisia,False
+2015-06-14,Spain,Ivory Coast,1,1,Friendly,Unknown,Spain,False
+2015-06-21,Portugal,Peru,3,1,Friendly,Unknown,Portugal,False
+2015-06-28,Jamaica,Switzerland,0,1,Friendly,Unknown,Jamaica,False
+2015-07-05,Iran,England,1,4,FIFA World Cup qualification,Unknown,Iran,False
+2015-07-12,Italy,Germany,1,1,Friendly,Unknown,Italy,False
+2015-07-19,Germany,Canada,0,1,FIFA World Cup qualification,Unknown,Germany,False
+2015-07-26,Mali,Sweden,0,2,Friendly,Unknown,Mali,False
+2015-08-02,United States,Chile,3,2,Friendly,Unknown,United States,False
+2015-08-09,Canada,Venezuela,2,0,FIFA World Cup qualification,Unknown,Canada,False
+2015-08-16,Ecuador,Australia,4,1,Friendly,Unknown,Ecuador,False
+2015-08-23,Poland,Nigeria,0,1,Friendly,Unknown,Poland,False
+2015-08-30,Spain,Belgium,3,3,Friendly,Unknown,Spain,False
+2015-09-06,Ukraine,Nigeria,2,1,Friendly,Unknown,Ukraine,False
+2015-09-13,Australia,Belgium,1,1,Friendly,Unknown,Australia,False
+2015-09-20,Denmark,New Zealand,0,1,Friendly,Unknown,Denmark,False
+2015-09-27,Argentina,Italy,3,2,FIFA World Cup qualification,Unknown,Argentina,False
+2015-10-04,Panama,Poland,0,1,FIFA World Cup qualification,Unknown,Panama,False
+2015-10-11,Chile,Senegal,1,1,Friendly,Unknown,Chile,False
+2015-10-18,Costa Rica,Croatia,0,0,FIFA World Cup qualification,Unknown,Costa Rica,False
+2015-10-25,Wales,United States,0,1,FIFA World Cup qualification,Unknown,Wales,False
+2015-11-01,Chile,Switzerland,4,0,Friendly,Unknown,Chile,False
+2015-11-08,Iran,Mali,1,0,Friendly,Unknown,Iran,False
+2015-11-15,Wales,Sweden,1,1,Friendly,Unknown,Wales,False
+2015-11-22,New Zealand,Senegal,4,1,Friendly,Unknown,New Zealand,False
+2015-11-29,Denmark,South Korea,3,1,Friendly,Unknown,Denmark,False
+2015-12-06,Canada,Poland,3,0,Friendly,Unknown,Canada,False
+2015-12-13,Tunisia,France,3,1,Friendly,Unknown,Tunisia,False
+2015-12-20,United States,Poland,2,2,FIFA World Cup qualification,Unknown,United States,False
+2015-12-27,Chile,Belgium,2,1,Friendly,Unknown,Chile,False
+2016-01-03,Australia,Qatar,0,1,FIFA World Cup qualification,Unknown,Australia,False
+2016-01-10,Morocco,Wales,4,2,FIFA World Cup qualification,Unknown,Morocco,False
+2016-01-17,Egypt,New Zealand,1,0,Friendly,Unknown,Egypt,False
+2016-01-24,Costa Rica,Nigeria,3,0,FIFA World Cup qualification,Unknown,Costa Rica,False
+2016-01-31,South Korea,Portugal,0,1,Friendly,Unknown,South Korea,False
+2016-02-07,France,Mexico,1,0,FIFA World Cup qualification,Unknown,France,False
+2016-02-14,Poland,Iraq,3,2,FIFA World Cup qualification,Unknown,Poland,False
+2016-02-21,Jamaica,Costa Rica,2,0,Friendly,Unknown,Jamaica,False
+2016-02-28,France,Algeria,1,2,Friendly,Unknown,France,False
+2016-03-06,Venezuela,Egypt,1,0,Friendly,Unknown,Venezuela,False
+2016-03-13,Spain,New Zealand,3,0,Friendly,Unknown,Spain,False
+2016-03-20,United Arab Emirates,Peru,1,2,Friendly,Unknown,United Arab Emirates,False
+2016-03-27,Ivory Coast,Colombia,4,0,Friendly,Unknown,Ivory Coast,False
+2016-04-03,Iraq,Senegal,1,2,Friendly,Unknown,Iraq,False
+2016-04-10,Poland,Uruguay,0,3,Friendly,Unknown,Poland,False
+2016-04-17,New Zealand,Uruguay,3,0,FIFA World Cup qualification,Unknown,New Zealand,False
+2016-04-24,Ecuador,Japan,0,3,Friendly,Unknown,Ecuador,False
+2016-05-01,Cameroon,Brazil,1,1,Friendly,Unknown,Cameroon,False
+2016-05-08,Denmark,Switzerland,1,3,Friendly,Unknown,Denmark,False
+2016-05-15,New Zealand,Germany,0,1,Friendly,Unknown,New Zealand,False
+2016-05-22,Netherlands,Belgium,1,1,Friendly,Unknown,Netherlands,False
+2016-05-29,Chile,Sweden,2,0,Friendly,Unknown,Chile,False
+2016-06-05,Canada,Venezuela,2,2,FIFA World Cup qualification,Unknown,Canada,False
+2016-06-12,United Arab Emirates,New Zealand,1,1,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2016-06-19,Brazil,Morocco,0,0,FIFA World Cup qualification,Unknown,Brazil,False
+2016-06-26,Peru,Belgium,1,2,Friendly,Unknown,Peru,False
+2016-07-03,Peru,Mali,1,1,Friendly,Unknown,Peru,False
+2016-07-10,Jamaica,Senegal,1,3,Friendly,Unknown,Jamaica,False
+2016-07-17,Brazil,Serbia,3,1,Friendly,Unknown,Brazil,False
+2016-07-24,Poland,Japan,0,3,FIFA World Cup qualification,Unknown,Poland,False
+2016-07-31,Ukraine,Spain,1,1,FIFA World Cup qualification,Unknown,Ukraine,False
+2016-08-07,Mali,Costa Rica,1,1,Friendly,Unknown,Mali,False
+2016-08-14,Australia,Brazil,2,1,FIFA World Cup qualification,Unknown,Australia,False
+2016-08-21,United States,Croatia,2,4,Friendly,Unknown,United States,False
+2016-08-28,Qatar,Senegal,0,3,Friendly,Unknown,Qatar,False
+2016-09-04,Uruguay,Spain,0,0,Friendly,Unknown,Uruguay,False
+2016-09-11,Ivory Coast,Ecuador,2,1,Friendly,Unknown,Ivory Coast,False
+2016-09-18,France,Italy,2,0,Friendly,Unknown,France,False
+2016-09-25,Saudi Arabia,Tunisia,1,2,Friendly,Unknown,Saudi Arabia,False
+2016-10-02,Serbia,Algeria,1,1,FIFA World Cup qualification,Unknown,Serbia,False
+2016-10-09,United Arab Emirates,Croatia,4,0,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2016-10-16,Ukraine,Iraq,0,1,Friendly,Unknown,Ukraine,False
+2016-10-23,Senegal,Canada,2,1,Friendly,Unknown,Senegal,False
+2016-10-30,Saudi Arabia,United Arab Emirates,1,2,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2016-11-06,Morocco,Algeria,0,2,Friendly,Unknown,Morocco,False
+2016-11-13,Serbia,Peru,0,1,FIFA World Cup qualification,Unknown,Serbia,False
+2016-11-20,Portugal,Senegal,2,2,Friendly,Unknown,Portugal,False
+2016-11-27,Iraq,Germany,1,2,Friendly,Unknown,Iraq,False
+2016-12-04,Ecuador,Croatia,0,2,Friendly,Unknown,Ecuador,False
+2016-12-11,Netherlands,Uruguay,2,1,Friendly,Unknown,Netherlands,False
+2016-12-18,Wales,Italy,0,4,Friendly,Unknown,Wales,False
+2016-12-25,Saudi Arabia,Canada,0,1,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2017-01-01,Spain,South Korea,2,3,Friendly,Unknown,Spain,False
+2017-01-08,Sweden,Argentina,2,2,FIFA World Cup qualification,Unknown,Sweden,False
+2017-01-15,Serbia,Argentina,2,2,Friendly,Unknown,Serbia,False
+2017-01-22,Saudi Arabia,Chile,3,1,Friendly,Unknown,Saudi Arabia,False
+2017-01-29,Switzerland,Netherlands,1,0,Friendly,Unknown,Switzerland,False
+2017-02-05,Panama,Jamaica,0,0,Friendly,Unknown,Panama,False
+2017-02-12,Mali,Chile,2,1,Friendly,Unknown,Mali,False
+2017-02-19,Spain,Chile,2,0,FIFA World Cup qualification,Unknown,Spain,False
+2017-02-26,Iran,Poland,2,0,Friendly,Unknown,Iran,False
+2017-03-05,Belgium,Uruguay,3,0,Friendly,Unknown,Belgium,False
+2017-03-12,Panama,United States,2,3,Friendly,Unknown,Panama,False
+2017-03-19,Netherlands,United Arab Emirates,3,3,FIFA World Cup qualification,Unknown,Netherlands,False
+2017-03-26,Venezuela,Japan,2,0,Friendly,Unknown,Venezuela,False
+2017-04-02,England,Iran,3,2,Friendly,Unknown,England,False
+2017-04-09,New Zealand,Ukraine,1,1,FIFA World Cup qualification,Unknown,New Zealand,False
+2017-04-16,Colombia,Mexico,0,1,FIFA World Cup qualification,Unknown,Colombia,False
+2017-04-23,United States,Italy,2,1,Friendly,Unknown,United States,False
+2017-04-30,Germany,Brazil,0,1,FIFA World Cup qualification,Unknown,Germany,False
+2017-05-07,Tunisia,Serbia,0,2,FIFA World Cup qualification,Unknown,Tunisia,False
+2017-05-14,Panama,Jamaica,1,1,Friendly,Unknown,Panama,False
+2017-05-21,England,Sweden,3,0,FIFA World Cup qualification,Unknown,England,False
+2017-05-28,Chile,Cameroon,0,1,FIFA World Cup qualification,Unknown,Chile,False
+2017-06-04,New Zealand,Poland,1,0,Friendly,Unknown,New Zealand,False
+2017-06-11,Germany,England,2,2,Friendly,Unknown,Germany,False
+2017-06-18,Algeria,Costa Rica,3,0,FIFA World Cup qualification,Unknown,Algeria,False
+2017-06-25,Germany,United States,0,2,Friendly,Unknown,Germany,False
+2017-07-02,Croatia,Argentina,1,1,Friendly,Unknown,Croatia,False
+2017-07-09,Saudi Arabia,Switzerland,1,0,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2017-07-16,Nigeria,United States,5,0,Friendly,Unknown,Nigeria,False
+2017-07-23,Uruguay,Wales,1,0,FIFA World Cup qualification,Unknown,Uruguay,False
+2017-07-30,Colombia,Wales,4,2,Friendly,Unknown,Colombia,False
+2017-08-06,Australia,Ukraine,0,1,Friendly,Unknown,Australia,False
+2017-08-13,Chile,Australia,1,1,Friendly,Unknown,Chile,False
+2017-08-20,South Korea,Mali,1,2,Friendly,Unknown,South Korea,False
+2017-08-27,Sweden,Japan,0,1,Friendly,Unknown,Sweden,False
+2017-09-03,Senegal,Iraq,6,1,Friendly,Unknown,Senegal,False
+2017-09-10,Panama,Serbia,0,1,Friendly,Unknown,Panama,False
+2017-09-17,Wales,Qatar,1,3,Friendly,Unknown,Wales,False
+2017-09-24,Costa Rica,Portugal,2,1,Friendly,Unknown,Costa Rica,False
+2017-10-01,France,South Korea,1,0,Friendly,Unknown,France,False
+2017-10-08,Saudi Arabia,Tunisia,2,0,Friendly,Unknown,Saudi Arabia,False
+2017-10-15,Jamaica,Argentina,2,0,FIFA World Cup qualification,Unknown,Jamaica,False
+2017-10-22,United Arab Emirates,Germany,3,0,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2017-10-29,Tunisia,Netherlands,2,1,FIFA World Cup qualification,Unknown,Tunisia,False
+2017-11-05,Ivory Coast,Netherlands,0,0,FIFA World Cup qualification,Unknown,Ivory Coast,False
+2017-11-12,Switzerland,Cameroon,0,1,Friendly,Unknown,Switzerland,False
+2017-11-19,Mexico,Sweden,4,2,Friendly,Unknown,Mexico,False
+2017-11-26,United Arab Emirates,United States,5,1,Friendly,Unknown,United Arab Emirates,False
+2017-12-03,Uruguay,Egypt,3,1,FIFA World Cup qualification,Unknown,Uruguay,False
+2017-12-10,Serbia,Belgium,1,1,Friendly,Unknown,Serbia,False
+2017-12-17,Sweden,Costa Rica,0,2,Friendly,Unknown,Sweden,False
+2017-12-24,Saudi Arabia,Jamaica,1,2,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2017-12-31,France,England,1,2,Friendly,Unknown,France,False
+2018-01-07,Ivory Coast,Chile,0,1,Friendly,Unknown,Ivory Coast,False
+2018-01-14,United Arab Emirates,Iran,2,3,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2018-01-21,France,Wales,0,0,Friendly,Unknown,France,False
+2018-01-28,Qatar,Poland,2,0,Friendly,Unknown,Qatar,False
+2018-02-04,Uruguay,Germany,3,2,Friendly,Unknown,Uruguay,False
+2018-02-11,Cameroon,Costa Rica,1,3,FIFA World Cup qualification,Unknown,Cameroon,False
+2018-02-18,Nigeria,Italy,1,1,Friendly,Unknown,Nigeria,False
+2018-02-25,Egypt,Colombia,1,1,FIFA World Cup qualification,Unknown,Egypt,False
+2018-03-04,Canada,Serbia,1,0,FIFA World Cup qualification,Unknown,Canada,False
+2018-03-11,Qatar,Algeria,3,0,Friendly,Unknown,Qatar,False
+2018-03-18,Iraq,Cameroon,1,4,FIFA World Cup qualification,Unknown,Iraq,False
+2018-03-25,England,Iraq,0,1,FIFA World Cup qualification,Unknown,England,False
+2018-04-01,Senegal,Egypt,0,1,Friendly,Unknown,Senegal,False
+2018-04-08,Costa Rica,Iraq,1,1,Friendly,Unknown,Costa Rica,False
+2018-04-15,Chile,Peru,2,0,Friendly,Unknown,Chile,False
+2018-04-22,Chile,Australia,1,0,Friendly,Unknown,Chile,False
+2018-04-29,Cameroon,South Korea,2,1,Friendly,Unknown,Cameroon,False
+2018-05-13,Morocco,Mali,1,0,Friendly,Unknown,Morocco,False
+2018-05-20,South Korea,Nigeria,2,0,FIFA World Cup qualification,Unknown,South Korea,False
+2018-05-27,Jamaica,Qatar,1,0,Friendly,Unknown,Jamaica,False
+2018-06-03,Uruguay,Australia,1,0,Friendly,Unknown,Uruguay,False
+2018-06-10,Morocco,Senegal,2,0,Friendly,Unknown,Morocco,False
+2018-06-17,Uruguay,Ukraine,0,3,FIFA World Cup qualification,Unknown,Uruguay,False
+2018-06-24,Wales,Sweden,2,1,Friendly,Unknown,Wales,False
+2018-07-01,Netherlands,Portugal,0,2,Friendly,Unknown,Netherlands,False
+2018-07-08,Iran,Chile,1,1,FIFA World Cup qualification,Unknown,Iran,False
+2018-07-15,Jamaica,Senegal,3,1,Friendly,Unknown,Jamaica,False
+2018-07-22,Morocco,Algeria,1,1,Friendly,Unknown,Morocco,False
+2018-07-29,Tunisia,Cameroon,0,1,Friendly,Unknown,Tunisia,False
+2018-08-05,Tunisia,Croatia,3,0,FIFA World Cup qualification,Unknown,Tunisia,False
+2018-08-12,Algeria,Senegal,1,0,Friendly,Unknown,Algeria,False
+2018-08-19,Colombia,Costa Rica,2,1,Friendly,Unknown,Colombia,False
+2018-08-26,Belgium,Japan,1,1,Friendly,Unknown,Belgium,False
+2018-09-02,Croatia,New Zealand,0,2,Friendly,Unknown,Croatia,False
+2018-09-09,Ecuador,Denmark,2,1,Friendly,Unknown,Ecuador,False
+2018-09-16,Belgium,Netherlands,2,0,FIFA World Cup qualification,Unknown,Belgium,False
+2018-09-23,Japan,Costa Rica,3,2,Friendly,Unknown,Japan,False
+2018-09-30,Peru,Sweden,1,1,Friendly,Unknown,Peru,False
+2018-10-07,Senegal,Tunisia,0,1,FIFA World Cup qualification,Unknown,Senegal,False
+2018-10-14,Morocco,Iraq,1,0,Friendly,Unknown,Morocco,False
+2018-10-21,Croatia,Ivory Coast,2,3,Friendly,Unknown,Croatia,False
+2018-10-28,Ukraine,Japan,2,1,Friendly,Unknown,Ukraine,False
+2018-11-04,Ecuador,Nigeria,0,0,FIFA World Cup qualification,Unknown,Ecuador,False
+2018-11-11,Tunisia,Denmark,1,1,Friendly,Unknown,Tunisia,False
+2018-11-18,Germany,Croatia,3,0,Friendly,Unknown,Germany,False
+2018-11-25,Egypt,Serbia,1,2,Friendly,Unknown,Egypt,False
+2018-12-02,Serbia,Denmark,4,0,FIFA World Cup qualification,Unknown,Serbia,False
+2018-12-09,Costa Rica,Brazil,4,2,FIFA World Cup qualification,Unknown,Costa Rica,False
+2018-12-16,Nigeria,United Arab Emirates,0,0,FIFA World Cup qualification,Unknown,Nigeria,False
+2018-12-23,Uruguay,Serbia,2,0,FIFA World Cup qualification,Unknown,Uruguay,False
+2018-12-30,Iran,Italy,4,3,Friendly,Unknown,Iran,False
+2019-01-06,Mali,Ivory Coast,2,0,Friendly,Unknown,Mali,False
+2019-01-13,Peru,Sweden,0,2,Friendly,Unknown,Peru,False
+2019-01-20,Mexico,Morocco,2,0,Friendly,Unknown,Mexico,False
+2019-01-27,Netherlands,Tunisia,0,1,FIFA World Cup qualification,Unknown,Netherlands,False
+2019-02-03,Switzerland,Venezuela,5,0,Friendly,Unknown,Switzerland,False
+2019-02-10,Croatia,Serbia,0,1,Friendly,Unknown,Croatia,False
+2019-02-17,Qatar,Brazil,1,2,Friendly,Unknown,Qatar,False
+2019-02-24,Australia,England,3,1,Friendly,Unknown,Australia,False
+2019-03-03,Switzerland,Mexico,3,2,FIFA World Cup qualification,Unknown,Switzerland,False
+2019-03-10,Switzerland,Iraq,2,2,Friendly,Unknown,Switzerland,False
+2019-03-17,Croatia,Saudi Arabia,1,1,Friendly,Unknown,Croatia,False
+2019-03-24,Panama,South Korea,0,0,Friendly,Unknown,Panama,False
+2019-03-31,Qatar,Mexico,1,0,FIFA World Cup qualification,Unknown,Qatar,False
+2019-04-07,Switzerland,Algeria,1,0,Friendly,Unknown,Switzerland,False
+2019-04-14,Saudi Arabia,Switzerland,0,1,Friendly,Unknown,Saudi Arabia,False
+2019-04-21,New Zealand,Qatar,0,2,FIFA World Cup qualification,Unknown,New Zealand,False
+2019-04-28,Venezuela,Canada,1,1,FIFA World Cup qualification,Unknown,Venezuela,False
+2019-05-05,England,Algeria,1,0,Friendly,Unknown,England,False
+2019-05-12,Argentina,United Arab Emirates,1,2,FIFA World Cup qualification,Unknown,Argentina,False
+2019-05-19,Venezuela,Chile,1,2,FIFA World Cup qualification,Unknown,Venezuela,False
+2019-05-26,Belgium,Argentina,1,0,Friendly,Unknown,Belgium,False
+2019-06-02,Australia,Chile,3,5,Friendly,Unknown,Australia,False
+2019-06-09,Netherlands,Qatar,1,1,Friendly,Unknown,Netherlands,False
+2019-06-16,Italy,Switzerland,0,1,FIFA World Cup qualification,Unknown,Italy,False
+2019-06-23,England,Algeria,0,1,Friendly,Unknown,England,False
+2019-06-30,Tunisia,Germany,0,0,Friendly,Unknown,Tunisia,False
+2019-07-07,Denmark,Senegal,4,1,FIFA World Cup qualification,Unknown,Denmark,False
+2019-07-14,Serbia,France,2,4,Friendly,Unknown,Serbia,False
+2019-07-21,Portugal,Costa Rica,1,1,FIFA World Cup qualification,Unknown,Portugal,False
+2019-07-28,Canada,Croatia,0,1,Friendly,Unknown,Canada,False
+2019-08-04,Venezuela,United Arab Emirates,2,1,Friendly,Unknown,Venezuela,False
+2019-08-11,Uruguay,United States,1,1,Friendly,Unknown,Uruguay,False
+2019-08-18,Switzerland,New Zealand,3,1,Friendly,Unknown,Switzerland,False
+2019-08-25,Ukraine,Wales,1,2,FIFA World Cup qualification,Unknown,Ukraine,False
+2019-09-01,Argentina,United States,1,0,FIFA World Cup qualification,Unknown,Argentina,False
+2019-09-08,Japan,Sweden,0,2,Friendly,Unknown,Japan,False
+2019-09-15,New Zealand,Wales,1,1,FIFA World Cup qualification,Unknown,New Zealand,False
+2019-09-22,Colombia,United States,2,0,FIFA World Cup qualification,Unknown,Colombia,False
+2019-09-29,Iran,Cameroon,3,2,Friendly,Unknown,Iran,False
+2019-10-06,Ivory Coast,Panama,2,1,Friendly,Unknown,Ivory Coast,False
+2019-10-13,Mexico,Germany,1,2,Friendly,Unknown,Mexico,False
+2019-10-20,Uruguay,Poland,3,1,Friendly,Unknown,Uruguay,False
+2019-10-27,Italy,Colombia,3,2,FIFA World Cup qualification,Unknown,Italy,False
+2019-11-03,United States,Mali,0,2,Friendly,Unknown,United States,False
+2019-11-10,Iraq,Argentina,1,1,Friendly,Unknown,Iraq,False
+2019-11-17,Spain,Brazil,3,2,Friendly,Unknown,Spain,False
+2019-11-24,Morocco,Sweden,1,1,FIFA World Cup qualification,Unknown,Morocco,False
+2019-12-01,Saudi Arabia,Australia,2,1,Friendly,Unknown,Saudi Arabia,False
+2019-12-08,Ecuador,Serbia,1,1,Friendly,Unknown,Ecuador,False
+2019-12-15,Belgium,Argentina,3,1,Friendly,Unknown,Belgium,False
+2019-12-22,Panama,Argentina,2,2,Friendly,Unknown,Panama,False
+2019-12-29,United States,Venezuela,1,0,FIFA World Cup qualification,Unknown,United States,False
+2020-01-05,France,Peru,1,0,FIFA World Cup qualification,Unknown,France,False
+2020-01-12,Croatia,Saudi Arabia,2,0,Friendly,Unknown,Croatia,False
+2020-01-19,New Zealand,Serbia,0,1,Friendly,Unknown,New Zealand,False
+2020-01-26,Brazil,Wales,1,1,Friendly,Unknown,Brazil,False
+2020-02-02,Canada,Iran,2,2,Friendly,Unknown,Canada,False
+2020-02-09,Croatia,Costa Rica,1,1,FIFA World Cup qualification,Unknown,Croatia,False
+2020-02-16,Italy,Serbia,0,0,Friendly,Unknown,Italy,False
+2020-02-23,Iraq,New Zealand,1,0,Friendly,Unknown,Iraq,False
+2020-03-01,Ecuador,Chile,0,3,FIFA World Cup qualification,Unknown,Ecuador,False
+2020-03-08,Poland,Chile,0,0,Friendly,Unknown,Poland,False
+2020-03-15,Venezuela,Costa Rica,2,3,Friendly,Unknown,Venezuela,False
+2020-03-22,Chile,Croatia,1,3,Friendly,Unknown,Chile,False
+2020-03-29,Chile,Senegal,0,3,FIFA World Cup qualification,Unknown,Chile,False
+2020-04-05,Sweden,Mali,0,2,Friendly,Unknown,Sweden,False
+2020-04-12,United Arab Emirates,Morocco,5,0,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2020-04-19,South Korea,New Zealand,3,0,Friendly,Unknown,South Korea,False
+2020-04-26,Argentina,Australia,3,1,Friendly,Unknown,Argentina,False
+2020-05-03,South Korea,Uruguay,0,1,Friendly,Unknown,South Korea,False
+2020-05-10,Portugal,Spain,1,0,Friendly,Unknown,Portugal,False
+2020-05-17,Croatia,Spain,2,1,Friendly,Unknown,Croatia,False
+2020-05-24,Jamaica,New Zealand,3,0,FIFA World Cup qualification,Unknown,Jamaica,False
+2020-05-31,Saudi Arabia,Egypt,1,0,FIFA World Cup qualification,Unknown,Saudi Arabia,False
+2020-06-07,Senegal,England,3,0,FIFA World Cup qualification,Unknown,Senegal,False
+2020-06-14,Iran,Peru,2,2,Friendly,Unknown,Iran,False
+2020-06-21,United Arab Emirates,Iran,0,1,Friendly,Unknown,United Arab Emirates,False
+2020-06-28,Italy,Argentina,0,0,Friendly,Unknown,Italy,False
+2020-07-05,Cameroon,Senegal,2,2,Friendly,Unknown,Cameroon,False
+2020-07-12,France,Iran,2,2,Friendly,Unknown,France,False
+2020-07-19,Egypt,Spain,1,1,Friendly,Unknown,Egypt,False
+2020-07-26,Wales,England,0,4,Friendly,Unknown,Wales,False
+2020-08-02,Egypt,Italy,2,2,FIFA World Cup qualification,Unknown,Egypt,False
+2020-08-09,Japan,Sweden,2,0,Friendly,Unknown,Japan,False
+2020-08-16,Ecuador,Tunisia,1,1,FIFA World Cup qualification,Unknown,Ecuador,False
+2020-08-23,Croatia,Brazil,4,2,Friendly,Unknown,Croatia,False
+2020-08-30,Morocco,Cameroon,0,0,Friendly,Unknown,Morocco,False
+2020-09-06,New Zealand,Costa Rica,0,0,Friendly,Unknown,New Zealand,False
+2020-09-13,Serbia,Portugal,2,3,Friendly,Unknown,Serbia,False
+2020-09-20,Argentina,Netherlands,0,0,FIFA World Cup qualification,Unknown,Argentina,False
+2020-09-27,Serbia,Spain,2,0,FIFA World Cup qualification,Unknown,Serbia,False
+2020-10-04,Ivory Coast,Sweden,1,2,Friendly,Unknown,Ivory Coast,False
+2020-10-11,Uruguay,Serbia,1,1,Friendly,Unknown,Uruguay,False
+2020-10-18,Nigeria,Australia,0,2,FIFA World Cup qualification,Unknown,Nigeria,False
+2020-10-25,Spain,Italy,1,0,Friendly,Unknown,Spain,False
+2020-11-01,Nigeria,Morocco,1,0,FIFA World Cup qualification,Unknown,Nigeria,False
+2020-11-08,Germany,Switzerland,0,3,Friendly,Unknown,Germany,False
+2020-11-15,Wales,South Korea,1,0,Friendly,Unknown,Wales,False
+2020-11-22,Colombia,France,2,1,FIFA World Cup qualification,Unknown,Colombia,False
+2020-11-29,Croatia,Mexico,1,0,FIFA World Cup qualification,Unknown,Croatia,False
+2020-12-06,England,Tunisia,1,4,Friendly,Unknown,England,False
+2020-12-13,Belgium,Egypt,2,0,FIFA World Cup qualification,Unknown,Belgium,False
+2020-12-20,Panama,Costa Rica,0,0,Friendly,Unknown,Panama,False
+2020-12-27,Argentina,Colombia,0,0,Friendly,Unknown,Argentina,False
+2021-01-03,Costa Rica,Colombia,0,0,Friendly,Unknown,Costa Rica,False
+2021-01-10,Colombia,Poland,1,3,FIFA World Cup qualification,Unknown,Colombia,False
+2021-01-17,Sweden,Saudi Arabia,2,1,Friendly,Unknown,Sweden,False
+2021-01-24,Ukraine,Mexico,3,0,FIFA World Cup qualification,Unknown,Ukraine,False
+2021-01-31,Poland,Saudi Arabia,1,1,FIFA World Cup qualification,Unknown,Poland,False
+2021-02-07,France,Nigeria,2,0,FIFA World Cup qualification,Unknown,France,False
+2021-02-14,Costa Rica,Italy,4,2,Friendly,Unknown,Costa Rica,False
+2021-02-21,United States,England,3,2,Friendly,Unknown,United States,False
+2021-03-07,Brazil,Ecuador,3,0,Friendly,Unknown,Brazil,False
+2021-03-14,Costa Rica,Switzerland,2,0,Friendly,Unknown,Costa Rica,False
+2021-03-21,United Arab Emirates,Panama,0,0,Friendly,Unknown,United Arab Emirates,False
+2021-03-28,Canada,Sweden,2,0,Friendly,Unknown,Canada,False
+2021-04-04,Mexico,New Zealand,0,3,FIFA World Cup qualification,Unknown,Mexico,False
+2021-04-11,Egypt,Sweden,2,2,Friendly,Unknown,Egypt,False
+2021-04-18,Senegal,Portugal,0,2,Friendly,Unknown,Senegal,False
+2021-04-25,Poland,Spain,3,1,Friendly,Unknown,Poland,False
+2021-05-02,Italy,Jamaica,0,1,Friendly,Unknown,Italy,False
+2021-05-09,Mali,Ecuador,1,2,FIFA World Cup qualification,Unknown,Mali,False
+2021-05-16,Qatar,Canada,0,2,Friendly,Unknown,Qatar,False
+2021-05-23,Australia,Argentina,1,1,Friendly,Unknown,Australia,False
+2021-05-30,Poland,Serbia,2,1,Friendly,Unknown,Poland,False
+2021-06-13,United States,France,0,2,Friendly,Unknown,United States,False
+2021-06-20,Italy,Canada,1,3,FIFA World Cup qualification,Unknown,Italy,False
+2021-06-27,Denmark,Japan,2,2,Friendly,Unknown,Denmark,False
+2021-07-04,Wales,Argentina,2,0,Friendly,Unknown,Wales,False
+2021-07-11,Sweden,Spain,0,0,Friendly,Unknown,Sweden,False
+2021-07-18,Egypt,United Arab Emirates,1,2,Friendly,Unknown,Egypt,False
+2021-07-25,Serbia,Iraq,1,2,Friendly,Unknown,Serbia,False
+2021-08-01,Wales,Ecuador,4,2,FIFA World Cup qualification,Unknown,Wales,False
+2021-08-08,Netherlands,Egypt,2,2,Friendly,Unknown,Netherlands,False
+2021-08-15,Uruguay,Senegal,1,1,FIFA World Cup qualification,Unknown,Uruguay,False
+2021-08-22,United Arab Emirates,Canada,2,0,Friendly,Unknown,United Arab Emirates,False
+2021-08-29,Egypt,Belgium,0,1,Friendly,Unknown,Egypt,False
+2021-09-05,Mexico,New Zealand,0,0,Friendly,Unknown,Mexico,False
+2021-09-19,Mexico,Senegal,2,1,FIFA World Cup qualification,Unknown,Mexico,False
+2021-10-10,United Arab Emirates,Iran,1,2,FIFA World Cup qualification,Unknown,United Arab Emirates,False
+2021-10-17,Wales,South Korea,1,3,FIFA World Cup qualification,Unknown,Wales,False
+2021-10-31,Denmark,Saudi Arabia,0,1,Friendly,Unknown,Denmark,False
+2021-11-07,Ecuador,Croatia,1,0,Friendly,Unknown,Ecuador,False
+2021-11-14,Saudi Arabia,Poland,0,1,Friendly,Unknown,Saudi Arabia,False
+2021-11-21,Argentina,England,1,1,Friendly,Unknown,Argentina,False
+2021-11-28,Colombia,United States,1,1,Friendly,Unknown,Colombia,False
+2021-12-05,Ukraine,Mexico,0,0,FIFA World Cup qualification,Unknown,Ukraine,False
+2021-12-12,Belgium,Algeria,1,1,FIFA World Cup qualification,Unknown,Belgium,False
+2021-12-19,Poland,Panama,0,2,Friendly,Unknown,Poland,False
+2021-12-26,Australia,New Zealand,0,1,Friendly,Unknown,Australia,False
+2022-01-02,Australia,Uruguay,1,2,Friendly,Unknown,Australia,False
+2022-01-09,Brazil,Mexico,3,0,Friendly,Unknown,Brazil,False
+2022-01-16,United Arab Emirates,Venezuela,2,0,Friendly,Unknown,United Arab Emirates,False
+2022-01-23,Switzerland,Egypt,1,0,Friendly,Unknown,Switzerland,False
+2022-01-30,Cameroon,Sweden,2,3,Friendly,Unknown,Cameroon,False
+2022-02-06,Colombia,Senegal,1,2,Friendly,Unknown,Colombia,False
+2022-02-13,Italy,Australia,2,1,Friendly,Unknown,Italy,False
+2022-02-20,Colombia,Mexico,2,0,Friendly,Unknown,Colombia,False
+2022-02-27,Cameroon,Mexico,2,1,Friendly,Unknown,Cameroon,False
+2022-03-06,Argentina,Netherlands,0,1,Friendly,Unknown,Argentina,False
+2022-03-13,France,Ecuador,1,0,Friendly,Unknown,France,False
+2022-03-20,Australia,Venezuela,1,1,Friendly,Unknown,Australia,False
+2022-03-27,Ivory Coast,Spain,2,1,Friendly,Unknown,Ivory Coast,False
+2022-04-03,Venezuela,Mali,1,2,FIFA World Cup qualification,Unknown,Venezuela,False
+2022-04-10,Japan,South Korea,2,1,FIFA World Cup qualification,Unknown,Japan,False
+2022-04-17,Poland,Panama,3,0,Friendly,Unknown,Poland,False
+2022-04-24,Australia,Costa Rica,2,0,FIFA World Cup qualification,Unknown,Australia,False
+2022-05-01,Jamaica,Costa Rica,2,1,Friendly,Unknown,Jamaica,False
+2022-05-08,Belgium,Germany,1,1,Friendly,Unknown,Belgium,False
+2022-05-15,Cameroon,Spain,1,2,FIFA World Cup qualification,Unknown,Cameroon,False
+2022-05-22,Cameroon,Croatia,2,1,Friendly,Unknown,Cameroon,False
+2022-05-29,Netherlands,Algeria,2,1,Friendly,Unknown,Netherlands,False
+2022-06-05,Belgium,Cameroon,0,2,Friendly,Unknown,Belgium,False
+2022-06-12,Ivory Coast,Chile,1,1,FIFA World Cup qualification,Unknown,Ivory Coast,False
+2022-06-19,Germany,Brazil,1,1,Friendly,Unknown,Germany,False
+2022-06-26,Ukraine,Argentina,1,1,Friendly,Unknown,Ukraine,False
+2022-07-03,Spain,Panama,1,1,FIFA World Cup qualification,Unknown,Spain,False
+2022-07-10,Chile,Sweden,3,1,Friendly,Unknown,Chile,False
+2022-07-17,Italy,Argentina,0,0,Friendly,Unknown,Italy,False
+2022-07-24,Panama,Australia,1,0,FIFA World Cup qualification,Unknown,Panama,False
+2022-07-31,Saudi Arabia,New Zealand,1,2,Friendly,Unknown,Saudi Arabia,False
+2022-08-07,Nigeria,France,1,3,FIFA World Cup qualification,Unknown,Nigeria,False
+2022-08-14,Iran,Portugal,0,1,Friendly,Unknown,Iran,False
+2022-08-21,Poland,Morocco,1,1,Friendly,Unknown,Poland,False
+2022-08-28,Peru,Croatia,2,0,Friendly,Unknown,Peru,False
+2022-09-04,South Korea,Chile,0,3,FIFA World Cup qualification,Unknown,South Korea,False
+2022-09-11,Switzerland,Belgium,2,1,FIFA World Cup qualification,Unknown,Switzerland,False
+2022-09-18,Denmark,Venezuela,2,1,Friendly,Unknown,Denmark,False
+2022-09-25,Wales,Panama,2,0,Friendly,Unknown,Wales,False
+2022-10-02,Iraq,Ukraine,0,0,Friendly,Unknown,Iraq,False
+2022-10-09,Brazil,New Zealand,2,2,Friendly,Unknown,Brazil,False
+2022-10-16,Australia,Denmark,1,1,FIFA World Cup qualification,Unknown,Australia,False
+2022-10-23,Nigeria,Sweden,0,1,Friendly,Unknown,Nigeria,False
+2022-10-30,Denmark,Sweden,0,0,Friendly,Unknown,Denmark,False
+2022-11-06,France,Canada,0,0,Friendly,Unknown,France,False
+2022-11-20,Brazil,Cameroon,1,2,FIFA World Cup qualification,Unknown,Brazil,False
+2022-11-27,United Arab Emirates,New Zealand,1,0,Friendly,Unknown,United Arab Emirates,False
+2022-12-04,Belgium,Panama,0,0,FIFA World Cup qualification,Unknown,Belgium,False
+2022-12-11,Serbia,Jamaica,0,1,FIFA World Cup qualification,Unknown,Serbia,False
+2022-12-18,Jamaica,Serbia,1,1,Friendly,Unknown,Jamaica,False
+2022-12-25,Germany,Peru,0,0,Friendly,Unknown,Germany,False
+2023-01-01,Ecuador,Mali,2,3,FIFA World Cup qualification,Unknown,Ecuador,False
+2023-01-08,Sweden,Wales,2,1,Friendly,Unknown,Sweden,False
+2023-01-15,Algeria,Venezuela,1,1,Friendly,Unknown,Algeria,False
+2023-01-22,Portugal,Saudi Arabia,2,2,Friendly,Unknown,Portugal,False
+2023-01-29,Egypt,Saudi Arabia,3,0,Friendly,Unknown,Egypt,False
+2023-02-05,Brazil,South Korea,1,2,Friendly,Unknown,Brazil,False
+2023-02-12,England,Netherlands,1,2,Friendly,Unknown,England,False
+2023-02-19,Netherlands,Sweden,2,1,Friendly,Unknown,Netherlands,False
+2023-02-26,Egypt,Qatar,2,1,Friendly,Unknown,Egypt,False
+2023-03-05,Senegal,Jamaica,3,1,FIFA World Cup qualification,Unknown,Senegal,False
+2023-03-12,Sweden,Panama,0,1,FIFA World Cup qualification,Unknown,Sweden,False
+2023-03-19,Costa Rica,Argentina,1,2,Friendly,Unknown,Costa Rica,False
+2023-03-26,New Zealand,Mexico,2,1,Friendly,Unknown,New Zealand,False
+2023-04-02,Poland,New Zealand,0,2,Friendly,Unknown,Poland,False
+2023-04-09,Ukraine,Uruguay,2,2,Friendly,Unknown,Ukraine,False
+2023-04-16,Portugal,Wales,4,1,Friendly,Unknown,Portugal,False
+2023-04-23,Denmark,Ecuador,1,2,Friendly,Unknown,Denmark,False
+2023-04-30,Belgium,Mali,0,0,Friendly,Unknown,Belgium,False
+2023-05-07,Morocco,Poland,3,1,FIFA World Cup qualification,Unknown,Morocco,False
+2023-05-14,Uruguay,England,2,1,Friendly,Unknown,Uruguay,False
+2023-05-21,Poland,Mali,2,4,FIFA World Cup qualification,Unknown,Poland,False
+2023-05-28,Egypt,Qatar,1,1,FIFA World Cup qualification,Unknown,Egypt,False
+2023-06-04,Nigeria,Tunisia,3,1,FIFA World Cup qualification,Unknown,Nigeria,False
+2023-06-11,Jamaica,Brazil,0,1,FIFA World Cup qualification,Unknown,Jamaica,False
+2023-06-18,Switzerland,Netherlands,3,1,Friendly,Unknown,Switzerland,False
+2023-06-25,New Zealand,Jamaica,1,2,FIFA World Cup qualification,Unknown,New Zealand,False
+2023-07-02,Uruguay,Italy,1,0,Friendly,Unknown,Uruguay,False
+2023-07-09,Morocco,Denmark,2,2,Friendly,Unknown,Morocco,False
+2023-07-16,Chile,Algeria,0,0,Friendly,Unknown,Chile,False
+2023-07-23,Venezuela,Denmark,1,0,Friendly,Unknown,Venezuela,False
+2023-07-30,Colombia,Croatia,1,1,Friendly,Unknown,Colombia,False
+2023-08-06,Sweden,Belgium,4,0,FIFA World Cup qualification,Unknown,Sweden,False
+2023-08-13,Argentina,Ecuador,2,1,Friendly,Unknown,Argentina,False
+2023-08-20,Tunisia,Germany,2,0,Friendly,Unknown,Tunisia,False
+2023-08-27,Uruguay,Iraq,0,3,Friendly,Unknown,Uruguay,False
+2023-09-03,Mexico,Colombia,1,3,Friendly,Unknown,Mexico,False
+2023-09-10,Cameroon,Serbia,1,2,FIFA World Cup qualification,Unknown,Cameroon,False
+2023-09-17,Ukraine,Cameroon,2,0,Friendly,Unknown,Ukraine,False
+2023-09-24,Denmark,Ukraine,1,0,Friendly,Unknown,Denmark,False
+2023-10-01,Spain,Panama,0,2,FIFA World Cup qualification,Unknown,Spain,False
+2023-10-08,Portugal,Brazil,2,1,FIFA World Cup qualification,Unknown,Portugal,False
+2023-10-15,Japan,South Korea,1,2,FIFA World Cup qualification,Unknown,Japan,False
+2023-10-22,Croatia,Iran,2,2,Friendly,Unknown,Croatia,False
+2023-10-29,South Korea,Costa Rica,0,0,Friendly,Unknown,South Korea,False
+2023-11-05,Uruguay,Mexico,2,0,FIFA World Cup qualification,Unknown,Uruguay,False
+2023-11-12,Australia,Canada,3,2,Friendly,Unknown,Australia,False
+2023-11-19,New Zealand,Algeria,3,2,Friendly,Unknown,New Zealand,False
+2023-11-26,France,Belgium,1,0,Friendly,Unknown,France,False
+2023-12-03,Australia,Morocco,1,1,FIFA World Cup qualification,Unknown,Australia,False
+2023-12-10,Brazil,United States,2,0,FIFA World Cup qualification,Unknown,Brazil,False
+2023-12-17,New Zealand,Switzerland,2,1,Friendly,Unknown,New Zealand,False
+2023-12-24,Iraq,Saudi Arabia,2,2,FIFA World Cup qualification,Unknown,Iraq,False
+2023-12-31,Netherlands,Germany,0,1,FIFA World Cup qualification,Unknown,Netherlands,False

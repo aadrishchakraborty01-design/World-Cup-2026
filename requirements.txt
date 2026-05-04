@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+statsbombpy
+requests
+beautifulsoup4
+streamlit
+plotly
+matplotlib
+google-generativeai
+kaggle
+python-dotenv
