@@ -5,6 +5,7 @@ import pandas as pd
 import pickle
 from pathlib import Path
 import sys
+import os
 
 # Add src to Python path so we can import from it
 sys.path.append(str(Path(__file__).resolve().parent.parent))
@@ -49,11 +50,10 @@ if not scores_dict:
     st.error("Model cache not found! Please run the data gathering and modeling pipelines first.")
     st.stop()
 
-# --- Sidebar ---
+# --- Sidebar (no API config section) ---
 st.sidebar.title("Navigation")
 teams = sorted(list(scores_dict.keys()))
 selected_team = st.sidebar.selectbox("Select a Team to Analyze", teams)
-
 
 st.sidebar.markdown("---")
 st.sidebar.subheader("🧠 System Reasoning")
@@ -64,10 +64,6 @@ st.sidebar.info(
     "🕵️‍♂️ **The Scout** (Random Forest): Evaluates squad market value, total age, and player depth.\n\n"
     "🧠 **The Psychologist** (Logistic Regression): Looks at soft signals like coach tenure length and host advantages."
 )
-
-st.sidebar.markdown("---")
-st.sidebar.subheader("🔑 API Configuration")
-api_key_input = st.sidebar.text_input("Gemini API Key (Optional Override)", type="password", help="If your key was blocked or leaked, enter a fresh one here.")
 
 st.write(f"### Intelligent Profile: **{selected_team}**")
 
@@ -89,7 +85,7 @@ def create_gauge(val, title, invert_colors=False):
     if invert_colors:
         colors = ["#7FB3FF", "#FFE066", "#FF7F7F"]
     else:
-        colors = ["#FF7F7F", "#FFE066", "#7FB3FF"] 
+        colors = ["#FF7F7F", "#FFE066", "#7FB3FF"]
         
     fig = go.Figure(go.Indicator(
         mode="gauge+number",
@@ -150,9 +146,36 @@ st.markdown("---")
 st.write("### ✨ AI Scout's Final Verdict")
 st.write("Merge the hard statistics with conversational AI to get a synthesized scouting report.")
 
-if st.button("💬 Generate Gemini AI Scouting Report"):
-    with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
-        report = generate_narrative(selected_team, scores, shap_top5, api_key_override=api_key_input)
-    st.success("Report Generated!")
-    st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
-    st.info(report)
+# Detect whether a key is available from st.secrets or environment
+def _get_configured_key():
+    try:
+        k = st.secrets.get("GEMINI_API_KEY", None)
+        if k and k != "your_gemini_api_key_here":
+            return k
+    except Exception:
+        pass
+    k = os.environ.get("GEMINI_API_KEY", None)
+    if k and k != "your_gemini_api_key_here":
+        return k
+    return None
+
+configured_key = _get_configured_key()
+
+if not configured_key:
+    # No key found — show a clean inline key entry (only appears on Cloud without secrets)
+    st.info("🔑 To generate a scouting report, enter your [Google AI Studio](https://aistudio.google.com/apikey) key below (it's free & takes 10s).")
+    inline_key = st.text_input("Gemini API Key", type="password", label_visibility="collapsed", placeholder="Paste your Gemini API key here...")
+    if st.button("💬 Generate Gemini AI Scouting Report", disabled=not inline_key):
+        with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
+            report = generate_narrative(selected_team, scores, shap_top5, api_key_override=inline_key)
+        st.success("Report Generated!")
+        st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
+        st.info(report)
+else:
+    # Key is available from server secrets/env — works seamlessly with no user input
+    if st.button("💬 Generate Gemini AI Scouting Report"):
+        with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
+            report = generate_narrative(selected_team, scores, shap_top5)
+        st.success("Report Generated!")
+        st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
+        st.info(report)
