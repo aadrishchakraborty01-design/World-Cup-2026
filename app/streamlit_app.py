@@ -7,8 +7,12 @@ from pathlib import Path
 import sys
 import os
 
-# Add src to Python path so we can import from it
-sys.path.append(str(Path(__file__).resolve().parent.parent))
+# Add project root to Python path
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+# Now we can import from src
 from src.explain import generate_narrative, GeminiKeyError
 
 st.set_page_config(page_title="WC2026 AI Scout", layout="wide", page_icon="⚽")
