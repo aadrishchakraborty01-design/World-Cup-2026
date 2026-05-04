@@ -159,23 +159,45 @@ def _get_configured_key():
         return k
     return None
 
+if 'server_key_failed' not in st.session_state:
+    st.session_state.server_key_failed = False
+
 configured_key = _get_configured_key()
 
-if not configured_key:
-    # No key found — show a clean inline key entry (only appears on Cloud without secrets)
-    st.info("🔑 To generate a scouting report, enter your [Google AI Studio](https://aistudio.google.com/apikey) key below (it's free & takes 10s).")
-    inline_key = st.text_input("Gemini API Key", type="password", label_visibility="collapsed", placeholder="Paste your Gemini API key here...")
+if not configured_key or st.session_state.server_key_failed:
+    # No key found OR server key was burned — show a clean inline key entry
+    if st.session_state.server_key_failed:
+        st.warning("⚠️ The underlying Streamlit server API key was burned/leaked by Google. Please enter a fresh one below.")
+    else:
+        st.info("🔑 To generate a scouting report, enter your [Google AI Studio](https://aistudio.google.com/apikey) key below (it's free & takes 10s).")
+        
+    inline_key = st.text_input("Gemini API Key", type="password", label_visibility="collapsed", placeholder="Paste your fresh Gemini API key here...")
+    
     if st.button("💬 Generate Gemini AI Scouting Report", disabled=not inline_key):
         with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
-            report = generate_narrative(selected_team, scores, shap_top5, api_key_override=inline_key)
-        st.success("Report Generated!")
-        st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
-        st.info(report)
+            try:
+                from src.explain import GeminiKeyError
+                report = generate_narrative(selected_team, scores, shap_top5, api_key_override=inline_key)
+                st.success("Report Generated!")
+                st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
+                st.info(report)
+            except GeminiKeyError as e:
+                st.error("❌ Whoops! That API key also threw a 403 Permission Denied. It may be leaked. Generate a new one from AI Studio.")
+            except Exception as e:
+                st.error(str(e))
 else:
     # Key is available from server secrets/env — works seamlessly with no user input
     if st.button("💬 Generate Gemini AI Scouting Report"):
         with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
-            report = generate_narrative(selected_team, scores, shap_top5)
-        st.success("Report Generated!")
-        st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
-        st.info(report)
+            try:
+                from src.explain import GeminiKeyError
+                report = generate_narrative(selected_team, scores, shap_top5)
+                st.success("Report Generated!")
+                st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
+                st.info(report)
+            except GeminiKeyError:
+                # The server key is burned. Flag it and rerun instantly to show the inline box.
+                st.session_state.server_key_failed = True
+                st.rerun()
+            except Exception as e:
+                st.error(f"Unexpected error: {str(e)}")

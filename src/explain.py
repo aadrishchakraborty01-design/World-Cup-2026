@@ -8,6 +8,10 @@ import sys
 from google import genai
 from dotenv import load_dotenv
 
+class GeminiKeyError(Exception):
+    """Raised when the Gemini API returns a 403 / leaked key error."""
+    pass
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(PROJECT_ROOT))
 
@@ -141,7 +145,11 @@ def generate_narrative(team_name, scores, shap_top5, api_key_override=None):
         )
         return response.text
     except Exception as e:
-        return f"Failed to generate narrative via API: {str(e)}"
+        err = str(e)
+        # Raise a typed exception so the caller can show a key-entry prompt
+        if "403" in err or "PERMISSION_DENIED" in err or "leaked" in err.lower():
+            raise GeminiKeyError(err)
+        return f"Failed to generate narrative via API: {err}"
 
 if __name__ == "__main__":
     print("Computing SHAP values for all 2026 teams...")
