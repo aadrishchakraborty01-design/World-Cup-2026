@@ -65,6 +65,10 @@ st.sidebar.info(
     "🧠 **The Psychologist** (Logistic Regression): Looks at soft signals like coach tenure length and host advantages."
 )
 
+st.sidebar.markdown("---")
+st.sidebar.subheader("🔑 API Configuration")
+api_key_input = st.sidebar.text_input("Gemini API Key (Optional Override)", type="password", help="If your key was blocked or leaked, enter a fresh one here.")
+
 st.write(f"### Intelligent Profile: **{selected_team}**")
 
 # Context
@@ -148,7 +152,7 @@ st.write("Merge the hard statistics with conversational AI to get a synthesized 
 
 if st.button("💬 Generate Gemini AI Scouting Report"):
     with st.spinner("Consulting Lastor - The Last Dance (Gemini AI)..."):
-        report = generate_narrative(selected_team, scores, shap_top5)
+        report = generate_narrative(selected_team, scores, shap_top5, api_key_override=api_key_input)
     st.success("Report Generated!")
     st.markdown(f"**Verdict from Lastor - The Last Dance on {selected_team}:**")
     st.info(report)
